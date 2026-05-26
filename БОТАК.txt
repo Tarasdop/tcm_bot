@@ -24,7 +24,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.storage.memory import MemoryStorage
 
 # ─── НАСТРОЙКИ ───────────────────────────────────────────────
-BOT_TOKEN = "8606254344:AAF_x_TKk9aHYEr0HZIt3O1ErPw_fajpOKc"  # Новый токен от @BotFather
+BOT_TOKEN = "8606254344:AAGZX9M0VzVbRvCKOYia2c6_21FqcFVXy58"  # Новый токен от @BotFather
 ADMIN_USERNAME = "sbc_market"           # Твой Telegram без @
 ADMIN_IDS = []                          # Заполнится автоматически при первом входе
 
